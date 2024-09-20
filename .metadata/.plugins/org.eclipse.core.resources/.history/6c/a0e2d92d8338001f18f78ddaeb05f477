@@ -1,0 +1,14 @@
+package com.dl;
+
+public class CharCount {
+
+	public static void main(String[] args) {
+		
+		String str = "abrahambarberbanana";
+		//System.out.println(str);
+		// count occurrence 
+		int count = str.length() - str.replace("a", "").length();
+		System.out.println("occurrence of a: "+count);
+	}
+
+}

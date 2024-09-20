@@ -1,0 +1,13 @@
+package com.dl.six;
+
+public interface Client {
+	
+	public static void m1() {
+		
+	}
+	public static void main(String[] args) {
+		
+		Integer i;
+	}
+
+}

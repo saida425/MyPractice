@@ -1,0 +1,10 @@
+package com.dl;
+
+public class Eg7 {
+	public static void main(String[] args) {
+		
+		String s1 = "Java and Python and Java";
+		System.out.println(s1.indent('a'));
+	}
+
+}

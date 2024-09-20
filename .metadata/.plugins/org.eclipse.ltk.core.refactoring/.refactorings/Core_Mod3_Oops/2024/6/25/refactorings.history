@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.Inheritance&apos; to &apos;com.dl.Inheritance&apos;&#x0D;&#x0A;- Original project: &apos;Core_Mod3_Oops&apos;&#x0D;&#x0A;- Original element: &apos;Core_Mod3_Oops/src/com.Inheritance&apos;&#x0D;&#x0A;- Renamed element: &apos;Core_Mod3_Oops/src/com.dl.Inheritance&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.Inheritance&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.Inheritance" name="com.dl.Inheritance" qualified="false" references="true" stamp="1718908803491" textual="false" version="1.0"/>
+</session>

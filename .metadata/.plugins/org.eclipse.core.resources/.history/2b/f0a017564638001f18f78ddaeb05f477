@@ -1,0 +1,19 @@
+package com.dl;
+
+public class String_NonRepeated_Char {
+
+	public static void main(String[] args) {
+		String s = "javadeveloper";
+
+		char[] charArray = s.toCharArray();
+
+		for (char i : s.toCharArray()) {
+			if (s.indexOf(i) == s.lastIndexOf(i)) {
+				System.out.println("The first character which is not repeating is: " + i);
+				boolean found = false;
+				
+			}
+		}
+
+	}
+}

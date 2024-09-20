@@ -1,0 +1,7 @@
+package com.dl.pro.two;
+
+import com.dl.pro.one.Client;
+
+public class ClientImpl extends Client {
+
+}

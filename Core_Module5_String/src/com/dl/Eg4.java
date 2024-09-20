@@ -1,0 +1,27 @@
+package com.dl;
+
+public class Eg4 {
+	public static void main(String[] args) {
+		
+		String s1 = "A";
+		String s2 = "B";
+		String s3 = "A";
+		String s4 = "a";
+		
+		System.out.println(s1.compareTo(s3));//65-65=0
+		System.out.println(s1.compareTo(s2));//65-66=-1
+
+		System.out.println(s2.compareTo(s3));//66-65=1
+	
+		System.out.println(s1.compareTo(s4));//65-97=-32
+		System.out.println(s1.compareToIgnoreCase(s4));//65-65=0
+		System.out.println(s4.compareToIgnoreCase(s1));
+		
+		
+		
+	
+	
+	
+	}
+
+}

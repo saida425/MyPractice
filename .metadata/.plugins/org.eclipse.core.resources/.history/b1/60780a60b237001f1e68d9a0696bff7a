@@ -1,0 +1,6 @@
+package com.dl.four;
+
+//we impl only one abd method from interface and other methods in next class
+public class Client {
+
+}

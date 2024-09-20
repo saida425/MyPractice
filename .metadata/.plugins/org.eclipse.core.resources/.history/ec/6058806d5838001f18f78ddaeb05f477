@@ -1,0 +1,29 @@
+package com.dl.two;
+
+class UserProfile{
+	int userId;
+	String userName;
+	long contactNumber;
+	String city;
+	public UserProfile(int userId, String userName, long contactNumber, String city) {
+		super();
+		this.userId = userId;
+		this.userName = userName;
+		this.contactNumber = contactNumber;
+		this.city = city;
+	}
+	
+}
+class UserDetails{
+	int userDetailsId;
+	UserProfile[] userProfile;//HAS A relationship(data number)
+	
+}
+
+public class Eg1 {
+
+	public static void main(String[] args) {
+
+	}
+
+}

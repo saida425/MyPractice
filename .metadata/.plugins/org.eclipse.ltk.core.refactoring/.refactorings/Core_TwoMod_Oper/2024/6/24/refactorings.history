@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.dl.one.Ex4Rel&apos; to &apos;Ex3Rel&apos;&#x0D;&#x0A;- Original project: &apos;Core_TwoMod&apos;&#x0D;&#x0A;- Original element: &apos;com.dl.one.Ex4Rel&apos;&#x0D;&#x0A;- Renamed element: &apos;com.dl.one.Ex3Rel&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Ex4Rel&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.dl.one{Ex4Rel.java[Ex4Rel" matchStrategy="1" name="Ex3Rel" qualified="false" references="true" similarDeclarations="false" stamp="1718292407749" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,8 @@
+package om.dl.two;
+
+public interface Profile {
+	
+	int a = 10;
+	int b= 20;
+
+}

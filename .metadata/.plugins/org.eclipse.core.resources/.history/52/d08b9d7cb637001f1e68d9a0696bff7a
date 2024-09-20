@@ -1,0 +1,15 @@
+package com.dl.one;
+
+//Enums are set of named Constrains
+public enum Books {
+	
+	JAVABOOK, PYTHONBOOK,JSBOOK,	REACTBOOK;
+	
+	public static void main(String[]args) {
+		
+		System.out.println(Books.JAVABOOK);
+		System.out.println(Books.valueOf("PYTHONBOOK"));
+	}
+
+	
+}

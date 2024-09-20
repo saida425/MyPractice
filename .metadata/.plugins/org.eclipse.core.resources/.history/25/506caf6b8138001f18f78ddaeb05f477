@@ -1,0 +1,12 @@
+package com.dl;
+
+public class StringReverse {
+	
+	public static void main(String[] args) {
+		
+		String s = "I am a java full stack developer";
+		String[] words = s.split("");
+		System.out.println();
+	}
+
+}

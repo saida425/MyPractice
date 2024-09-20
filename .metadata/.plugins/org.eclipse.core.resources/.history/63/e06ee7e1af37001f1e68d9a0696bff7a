@@ -1,0 +1,18 @@
+package om.dl.one;
+
+public interface Profile {
+
+}
+
+class S{
+	//all methods with implementations
+}
+
+abstract class T{
+	//abs methods
+	//concrete methods
+}
+
+interface U{
+	//abs methods
+}

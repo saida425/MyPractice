@@ -1,0 +1,5 @@
+package com.dl.defaultt.two;
+
+public class ClientImpl extends Client {
+
+}

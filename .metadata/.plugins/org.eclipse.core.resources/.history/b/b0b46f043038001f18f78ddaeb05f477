@@ -1,0 +1,11 @@
+package com.dl;
+
+public class String_Duplicate {
+
+	public static void main(String[] args) {
+		
+		String s = "i am a java full stack developer";
+
+	}
+
+}

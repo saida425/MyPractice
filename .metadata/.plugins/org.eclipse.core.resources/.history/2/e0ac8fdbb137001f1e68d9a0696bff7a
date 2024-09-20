@@ -1,0 +1,11 @@
+package com.dl.three;
+//using interfaces we can call multiple interfaces at a 
+//time multiple inheritance
+public interface Client {
+	
+	public static void main(String[] args) {
+		
+		
+	}
+
+}

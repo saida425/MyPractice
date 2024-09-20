@@ -1,0 +1,19 @@
+package com.dl;
+
+public class Eg2 {
+
+	public static void main(String[] args) {
+		
+		//String literal
+		
+		String s1= "Java";//1 object (scp :String constant pool)
+		String s2="Python";//1 object(scp :String constant pool)
+		String s3="Java";//1 object(scp :String constant pool)
+		
+		System.out.println(s1);
+		System.out.println(s2);
+		System.out.println(s3);
+
+	}
+
+}

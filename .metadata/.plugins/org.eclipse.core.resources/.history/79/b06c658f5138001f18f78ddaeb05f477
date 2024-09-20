@@ -1,0 +1,34 @@
+package com.dl;
+
+public class String_CountSpecific_Char {
+
+	public static void main(String[] args) {
+
+		String s = "abcdeescba";
+		boolean flag = true;// default true
+
+//		int i=0,j=s.length()-1;
+//		while(i<j) {
+//			if(s.charAt(i)!=s.charAt(j)) {
+//				System.out.println("Not Palindram");
+//			}
+//			i++;
+//			j--;
+//		}
+//		System.out.println("is palindram");
+		for (int i = 0; i <= s.length()/2; i++) {
+			flag=true;
+			char left = s.charAt(i);
+			char right = s.charAt(s.length() - 1 - i);
+			if (left!= right) {
+				flag = false;// if not equals
+				break;
+			}
+			}
+			if (flag)
+				System.out.println("palindrome");
+			else
+				System.out.println("not palindrome");
+		}
+	}
+

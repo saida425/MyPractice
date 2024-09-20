@@ -1,0 +1,5 @@
+package com.dl.pro.one;
+
+final class Client {
+
+}

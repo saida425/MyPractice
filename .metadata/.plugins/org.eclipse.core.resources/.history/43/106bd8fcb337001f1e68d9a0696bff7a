@@ -1,0 +1,17 @@
+package com.dl.five;
+//we can call normal class using interface
+class A{
+	
+}
+class B{
+	
+}
+interface C  {
+	
+}
+class D extends A implements C{
+	
+}
+public class Client {
+
+}

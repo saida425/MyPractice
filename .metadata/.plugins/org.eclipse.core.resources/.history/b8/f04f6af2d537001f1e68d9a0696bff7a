@@ -1,0 +1,15 @@
+package com.dl;
+
+public class Eg2 {
+
+	public static void main(String[] args) {
+		
+		//String literal
+		
+		String s1= "Java";
+		String s2="Python";
+		String s3="Java";
+		
+	}
+
+}

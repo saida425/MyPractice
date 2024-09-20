@@ -1,0 +1,16 @@
+package com.dl.one;
+
+//Enums are set of named Constrains
+public enum Books {
+	
+	JAVABOOK,
+	PTTHONBOOK,
+	JSBOOK,
+	REACTBOOK;
+	
+	public static void main(String[]args) {
+		
+	}
+
+	
+}

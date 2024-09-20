@@ -1,0 +1,14 @@
+package com.dl.pro.one;
+
+public class Client {
+	
+	protected a = 10;
+	protected int b = 20;
+
+	public static void main(String[] args) {
+		
+		
+
+	}
+
+}

@@ -1,0 +1,14 @@
+package com.dl;
+
+public class Eg4 {
+	public static void main(String[] args) {
+		
+		String s1 = "A";
+		String s2 = "B";
+		String s3 = "A";
+		
+		System.out.println(s1.compareTo(s3));
+		System.out.println(s1.compareTo(s2));
+	}
+
+}

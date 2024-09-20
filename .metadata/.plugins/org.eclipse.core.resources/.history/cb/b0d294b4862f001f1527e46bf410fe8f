@@ -1,0 +1,28 @@
+package com.dl.abs;
+
+abstract class Product {
+	
+	int productPrice;
+	int productDiscount;
+	
+	public void getOffer(int offer) {
+		productDiscount = productPrice - offer;
+	}
+	
+public void productCustomer(String cNAme, String cAddress) {
+	System.out.println(cNAme);
+	System.out.println(cAddress);
+}
+	
+}
+
+
+
+
+
+
+public class ProductImpl {
+	
+	ProductImpl
+
+}
